@@ -1,8 +1,10 @@
 # project1
 demo project
-jaswanthollepalli
-bjaswanth24@gmail.com
-it
+# jaswanthollepalli
+# bjaswanth24@gmail.com
+# it
+# 7997128640
+# narasaraopert
 # rvrjc_it
 ## rvrjc_it
 ### rvrjc_it
